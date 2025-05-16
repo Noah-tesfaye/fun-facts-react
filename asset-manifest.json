@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fun-facts-react/static/css/main.872b9058.css",
+    "main.js": "/fun-facts-react/static/js/main.ea43273a.js",
+    "static/js/453.78d64861.chunk.js": "/fun-facts-react/static/js/453.78d64861.chunk.js",
+    "static/media/logo.svg": "/fun-facts-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fun-facts-react/index.html",
+    "main.872b9058.css.map": "/fun-facts-react/static/css/main.872b9058.css.map",
+    "main.ea43273a.js.map": "/fun-facts-react/static/js/main.ea43273a.js.map",
+    "453.78d64861.chunk.js.map": "/fun-facts-react/static/js/453.78d64861.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.872b9058.css",
+    "static/js/main.ea43273a.js"
+  ]
+}
